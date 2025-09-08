@@ -26,12 +26,12 @@
 .header-logo{
     font-size: 24px;
     color: #F9FAF8;
-    margin: 20px 20px 10px 10vw;
+    margin: 20px auto 10px 10vw;
 }
 
 .content-grid{
     padding-bottom: 100px;
-    margin: 100px 100px 70px 100px;
+    margin: 100px auto 70px 100px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -113,3 +113,39 @@
     width: 100px;
     margin-bottom: 20px;
 }
+
+.quote{
+    background-color: #E5E7EB;
+    margin-top: 100px;
+}
+
+.quote-inner{
+    padding:150px;
+}
+
+.quote-inner p{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    margin: ;
+}
+
+.call-to-action{
+    margin:100px 200px;
+    padding: 50px 100px;
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+}
+
+.call-to-action-text{
+    margin-right: auto;
+}
+
+.sign-up2{
+    background-color: #3882f6;
+    border: 2px solid #fff;
+    padding: 8px 30px;
+    border-radius: 8px;
+}
+
